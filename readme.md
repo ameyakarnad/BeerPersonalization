@@ -1,4 +1,4 @@
-# BeerPersonalization
+# Beer Personalization and Recommendation System
 
 ##### Background
 For this project, we pretend to be an online craft beer retailer. Our goal is to develop an algorithm that generates purchase recommendations for our customers when they visit our website. The recommendations should take into account the customer’s taste and preferences while helping them discover new beers they have not tried before. For each user, we provide up to 10 beer recommendations each time they visit our website.
