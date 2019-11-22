@@ -22,5 +22,5 @@ Our project focuses on tackling the following challenges:
 - Carlo Provinciali (cp2984)
 - Yilin Sun (ys2780)
 
-Please Check
+Please check the final project directory for more details
 
